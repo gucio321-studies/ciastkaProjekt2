@@ -1,6 +1,6 @@
 # Cel ćwiczenia
 
-Celem przeprowadzoneg*o projektu było wyznaczenie temperatury Debye'a oraz współćzynnika Sommerfelda dla złota $Au$.
+Celem przeprowadzonego projektu było wyznaczenie temperatury Debye'a oraz współćzynnika Sommerfelda dla złota $Au$.
 
 # Wstęp teoretyczny
 
@@ -30,7 +30,7 @@ $$
 C_{fonon} = 3 N_a k_b \frac{4 \pi^4}{5} \left( \frac{T}{T_D} \right)^3
 $$ (debeye)
 
-Po uwzględnieniu poprawki Sommerfelda {eq}`sommer` równanie równanie to przyjmuje postać:
+Po uwzględnieniu poprawki Sommerfelda {eq}`sommer` równanie to przyjmuje postać:
 
 $$
 C_{fonon + elektron} = \gamma T + 3 N_a k_b \frac{4 \pi^4}{5} \left( \frac{T}{T_D} \right)^3
@@ -106,7 +106,7 @@ Rozbierzność otrzymanego wyniku z wartościami tablicowymi może wynikać z pr
 
 ([literatura 2.](#literatura))
 
-W prawdzie powyższe sstwierdzenie odnosi się do eksperymentu w którym operowano na temperaturach rzędu $77K$ (wrzenie azotu), jednak podobny efekt mógłby być zaobserwowany również w warunkach niniejszego eksperymentu pomimo znacznie niższych temperatur.
+W prawdzie powyższe stwierdzenie odnosi się do eksperymentu w którym operowano na temperaturach rzędu $77K$ (wrzenie azotu), jednak podobny efekt mógłby być zaobserwowany również w warunkach niniejszego eksperymentu pomimo znacznie niższych temperatur.
 ```
 
 ## Współczynnik Sommerfelda
